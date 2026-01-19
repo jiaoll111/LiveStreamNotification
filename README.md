@@ -3,6 +3,7 @@
 <img width="415" height="164" alt="PixPin_2026-01-19_17-14-20" src="https://github.com/user-attachments/assets/9657ce63-1389-4608-9459-ce426db8745f" /><img width="779" height="687" alt="PixPin_2026-01-19_17-10-36" src="https://github.com/user-attachments/assets/8c799c4d-1a8c-4965-bbfc-e1f55ec3d330" />
 使用方法：打开管理扩展开启开发人员模式点击 加载解压缩的扩展 打开下载后的文件即可。
 <img width="1920" height="905" alt="PixPin_2026-01-19_17-17-08" src="https://github.com/user-attachments/assets/f88132c1-5d50-4495-b002-9a7f6252cb2f" /><img width="1127" height="608" alt="PixPin_2026-01-19_17-18-07" src="https://github.com/user-attachments/assets/c23fae6c-72d7-4a4e-bcb4-eddc6b293150" />
+感谢您的支持，如果觉得好用可以支持一下小弟我<img width="352" height="266" alt="PixPin_2026-01-19_17-21-43" src="https://github.com/user-attachments/assets/615b9f71-2d0b-4669-8e44-e743710f2c59" />
 
 
 
